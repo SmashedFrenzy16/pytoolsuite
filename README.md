@@ -10,11 +10,12 @@ NOTE: CHeck inside the file to see the different functions and variables!
 
 ## Current PytoolSuite Version:
 
-PytoolSuite 1.0
+PytoolSuite 2.0
 
 ## PytoolSuite release notes:
 
-PytoolSuite 1.0: Built in is an addition calculator, a sample input function, a "Hello World" command, a "numbers to ten" list, a phone data type, and a python document creator.
+- PytoolSuite 1.0: Built in is an addition calculator, a sample input function, a "Hello World" command, a "numbers to ten" list, a phone data type, and a python document creator.
+- PytoolSuite 2.0: More commands added. Code easier to browse.
 
 ## General Notes:
 

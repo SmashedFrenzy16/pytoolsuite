@@ -12,3 +12,7 @@
 ## Reporting a Vulnerability
 
 If you see a vulnerbility, please create an issue and we will be there to review it.
+
+## EOL Info
+
+Every version of PytoolSuite is supported until the next version comes along. This is usually one year.

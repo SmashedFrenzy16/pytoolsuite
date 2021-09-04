@@ -19,4 +19,4 @@ PytoolSuite 2.0
 
 ## General Notes:
 
-Please refer to the [releases](https://github.com/SmashedFrenzy16/pytoolsuite/releases) to see which version to get!
+Please refer to the [releases](https://github.com/SmashedFrenzy16/pytoolsuite/releases) page to see which version to get!

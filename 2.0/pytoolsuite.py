@@ -138,7 +138,7 @@ def snake():
     dis_height = 600
 
     dis = pygame.display.set_mode((dis_width, dis_height))
-    pygame.display.set_caption('Snake Game by Rayyan Taha Copied For Some')
+    pygame.display.set_caption('Snake Game by SmashedFrenzy16 Copied For Some')
 
     clock = pygame.time.Clock()
 

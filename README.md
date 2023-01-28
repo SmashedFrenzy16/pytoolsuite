@@ -1,6 +1,6 @@
 # PytoolSuite
 
-PytoolSuite is a Python module made by me in partnership with NetFruit Technologies (my company). PytoolSuite has a few basic essentials for python developers.
+PytoolSuite is a Python module made by NetFruit Technologies. It has a wide range of tools, such as a calculator, paint program and biography generator. Experience a world of ease when using PytoolSuite, and enjoy the many functions it has at the tip of your fingers.
 [Click here](https://github.com/SmashedFrenzy16/pytoolsuite/releases) to go to the "Releases" page.
 
 ## How to use:
